@@ -8,6 +8,6 @@ def my_each(array) # put argument(s) here
   array
 end
 
-my_each(collection) do |i|
+my_each(words) do |i|
   i
 end
